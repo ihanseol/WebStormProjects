@@ -21,9 +21,11 @@ unalias=alias /d $1
 vi=gvim $*
 cmderr=cd /d "%CMDER_ROOT%"
 lp=cls $t dir
+
 eh=%VI% "C:\windows\system32\drivers\etc\hosts"
 qal=%VI% "%CMDER_ROOT%\config\user_aliases.cmd" $t alias/reload
 sett=%VI% "%CMDER_ROOT%\config\user_profile.cmd"
+
 min=c: $t cd %ME%
 ana=cd C:\ProgramData\Anaconda3\envs
 sub=sublime_text $*
