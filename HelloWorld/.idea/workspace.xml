@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="122821f4-d7f1-494b-82fb-f4a102d4c06b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config/.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config/profile.d/user_profile.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config/settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config/user-ConEmu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config/user_aliases.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config/user_profile.cmd" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -37,7 +43,7 @@
         <entry file="file://$PROJECT_DIR$/dynamic_array.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="399">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -148,12 +154,12 @@
       <workItem from="1576205541748" duration="2019000" />
       <workItem from="1576207600004" duration="2546000" />
       <workItem from="1576210410757" duration="594000" />
-      <workItem from="1576295316429" duration="6232000" />
+      <workItem from="1576295316429" duration="6829000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11391000" />
+    <option name="totallyTimeSpent" value="11988000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -209,7 +215,7 @@
     <entry file="file://$PROJECT_DIR$/dynamic_array.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>

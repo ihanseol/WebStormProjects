@@ -1,0 +1,6 @@
+[core]
+	#editor = \"C:\\Users\\minhwasoo\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --wait
+	editor = \"C:\\Program Files\\Vim\\vim81\\gvim.exe\" 
+[user]
+	name = ihanseol
+	email = hansel33@naver.com
