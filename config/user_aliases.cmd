@@ -8,13 +8,17 @@
 e.=explorer .
 gl=git log --oneline --all --graph --decorate  $*
 gs=git status $*
+ga=git add $*
+gc=git commit $*
+gp=git push origin master
+
 ls=ls --show-control-chars -F --color $*
 ll=ls -l -F --show-control-chars --color $*
 pwd=cd
 clear=cls
 history=cat "%CMDER_ROOT%\config\.history"
 unalias=alias /d $1
-vi=vim $*
+vi=gvim $*
 cmderr=cd /d "%CMDER_ROOT%"
 lp=cls $t dir
 eh=%VI% "C:\windows\system32\drivers\etc\hosts"
