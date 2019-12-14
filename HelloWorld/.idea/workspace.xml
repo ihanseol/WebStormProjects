@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="122821f4-d7f1-494b-82fb-f4a102d4c06b" name="Default Changelist" comment="" />
+    <list default="true" id="122821f4-d7f1-494b-82fb-f4a102d4c06b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/HelloWorld 1/baseball.html" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld 1/baseball.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld 1/baseball.js" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld 1/baseball.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -12,34 +15,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.36380145">
-      <split-first>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/HelloWorld 1/baseball.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="190">
-                  <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/HelloWorld 1/baseball.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="438">
-                  <caret line="71" column="18" lean-forward="true" selection-start-line="71" selection-start-column="18" selection-end-line="71" selection-end-column="18" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HelloWorld 1/baseball.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -64,8 +50,8 @@
         <option value="$PROJECT_DIR$/HelloWorld 1/EndTrace.js" />
         <option value="$PROJECT_DIR$/HelloWorld 1/gugudan.html" />
         <option value="$PROJECT_DIR$/HelloWorld 1/gugudan.js" />
-        <option value="$PROJECT_DIR$/HelloWorld 1/baseball.html" />
         <option value="$PROJECT_DIR$/HelloWorld 1/baseball.js" />
+        <option value="$PROJECT_DIR$/HelloWorld 1/baseball.html" />
       </list>
     </option>
   </component>
@@ -98,6 +84,12 @@
             </path>
             <path>
               <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="HelloWorld 1" type="462c0819:PsiDirectoryNode" />
+              <item name="jquery" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -126,8 +118,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.EndTrace.html">
+  <component name="RunManager" selected="JavaScript Debug.baseball.html">
     <configuration name="EndTrace.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HelloWorld/HelloWorld 1/EndTrace.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="baseball.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HelloWorld/HelloWorld 1/baseball.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HelloWorld/index.html" useBuiltInWebServerPort="true">
@@ -135,6 +130,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.baseball.html" />
         <item itemvalue="JavaScript Debug.EndTrace.html" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
@@ -154,12 +150,12 @@
       <workItem from="1576207600004" duration="2546000" />
       <workItem from="1576210410757" duration="594000" />
       <workItem from="1576295316429" duration="6946000" />
-      <workItem from="1576307402637" duration="12109000" />
+      <workItem from="1576307402637" duration="16762000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24214000" />
+    <option name="totallyTimeSpent" value="28867000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -172,15 +168,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12961012" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12961012" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.27952328" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
@@ -270,17 +265,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HelloWorld 1/baseball.html">
+    <entry file="file://$PROJECT_DIR$/HelloWorld 1/jquery/underscore.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        <state relative-caret-position="-379">
+          <caret line="1205" column="42" selection-start-line="1205" selection-start-column="42" selection-end-line="1205" selection-end-column="42" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HelloWorld 1/baseball.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="71" column="18" lean-forward="true" selection-start-line="71" selection-start-column="18" selection-end-line="71" selection-end-column="18" />
+        <state relative-caret-position="478">
+          <caret line="84" column="42" lean-forward="true" selection-start-line="84" selection-start-column="42" selection-end-line="84" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloWorld 1/baseball.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
         </state>
       </provider>
     </entry>
