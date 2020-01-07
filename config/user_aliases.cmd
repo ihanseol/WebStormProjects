@@ -10,8 +10,10 @@ gl=git log --oneline --all --graph --decorate  $*
 gs=git status $*
 ga=git add $*
 gc=git commit $*
-gp=git push origin master
+gpush=git push origin master
+gpull=git pull origin master
 
+l=ls --show-control-chars -F --color $*
 ls=ls --show-control-chars -F --color $*
 ll=ls -l -F --show-control-chars --color $*
 pwd=cd
