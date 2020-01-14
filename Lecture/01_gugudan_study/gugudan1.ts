@@ -1,4 +1,3 @@
-{
 
 let numberOne : number = Math.ceil(Math.random() * 9);
 let numberTwo : number = Math.ceil(Math.random() * 9);
@@ -40,7 +39,6 @@ form.addEventListener('submit', (e) => {
   }
 });
 
-}
 
 
 

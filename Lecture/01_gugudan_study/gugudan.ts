@@ -1,5 +1,4 @@
-{
-    let numberOne = Math.ceil(Math.random() * 9);
+let numberOne = Math.ceil(Math.random() * 9);
 let numberTwo = Math.ceil(Math.random() * 9);
 let result = numberOne * numberTwo;
 
@@ -15,6 +14,5 @@ document.body.append(word);
 console.log(' hello type script ....');
 
 
-}
 
 
